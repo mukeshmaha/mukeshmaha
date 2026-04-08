@@ -2,7 +2,7 @@
 <h3 align="center">IT & Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;IT%20Student;Problem%20Solver;Always%20Learning%20New%20Things&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;ECE%20Student;Problem%20Solver;Always%20Learning%20New%20Things&center=true&width=500&height=50">
 </p>
 
 ---
