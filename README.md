@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
-<h3 align="center">IT & Software Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">IT & Software Developer | Tech Enthusiast | Problem Solver</h3>
+
+<p align="center">
+Welcome to my GitHub profile! 🚀  
+I am passionate about software development, problem solving, and learning new technologies.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 IT & Software Engineering Student
-- 💻 Passionate about **Software Development and Problem Solving**
-- 🌱 Currently learning **Data Structures, Web Development, and Databases**
-- 🚀 Interested in **Full Stack Development, Backend Systems, and Cloud**
-- 📚 Always exploring **new technologies and programming languages**
+
+- 🎓 IT & Software Engineering Student  
+- 💻 Interested in **Software Development and Programming**  
+- 🌱 Currently learning **Data Structures, Web Development and Databases**  
+- 🚀 Interested in **Full Stack Development and Backend Systems**  
+- 📚 Always exploring new technologies  
 
 ---
 
@@ -35,7 +41,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
 </p>
 
-### Tools & Technologies
+### Tools
 <p>
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
@@ -46,35 +52,56 @@
 ---
 
 ## 📌 Projects
-- 🔹 **Fall Detection Smart Wearable** – IoT based safety device using sensors  
-- 🔹 **Database Management System Project** – SQL based data management system  
-- 🔹 **Web Development Projects** – Responsive websites using HTML, CSS and JavaScript  
+
+### 🔹 Smart Fall Detection Wearable
+IoT based safety device using ESP32 and MPU6050 sensors for elderly fall detection.
+
+### 🔹 Database Management System
+SQL based database system for storing and managing data efficiently.
+
+### 🔹 Web Development Projects
+Responsive websites developed using HTML, CSS and JavaScript.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mukeshmaha&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmaha&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshmaha&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
 
-<a href="mailto:yourmail@example.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<p>
+<a href="https://github.com/mukeshmaha">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-⭐ *"Code, Learn, Build, Repeat"* ⭐
+## 👀 Profile Views
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=mukeshmaha&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Keep Learning | Keep Building | Keep Growing ⭐
+</p>
