@@ -2,8 +2,8 @@
 <h3 align="center">IT & Software Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-Welcome to my GitHub profile! 🚀  
-I am passionate about software development, problem solving, and learning new technologies.
+Welcome to my GitHub profile 🚀  
+I am passionate about software development and learning new technologies.
 </p>
 
 ---
@@ -61,26 +61,6 @@ SQL based database system for storing and managing data efficiently.
 
 ### 🔹 Web Development Projects
 Responsive websites developed using HTML, CSS and JavaScript.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mukeshmaha&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmaha&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshmaha&theme=tokyonight"/>
-</p>
 
 ---
 
